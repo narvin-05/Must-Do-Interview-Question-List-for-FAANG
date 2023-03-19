@@ -1,5 +1,6 @@
 
 // Leetcode 1191 - https://leetcode.com/problems/k-concatenation-maximum-sum/
+// Resource - https://www.youtube.com/watch?v=qnoOu5Usb4o
 
 class Solution {
 private:
